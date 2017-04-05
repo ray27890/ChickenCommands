@@ -1,0 +1,9 @@
+main: com.chickencommands.ChickenCommandsMain
+version: 1.0
+authour: p3i
+name: ChickenCommands
+commands:
+     info:
+         description: Gives you the owners set information!
+     staff:
+          description: Who built this server?
